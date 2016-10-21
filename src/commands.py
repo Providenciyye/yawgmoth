@@ -38,7 +38,8 @@ obey_dict = {
         'BigLupu': 'Rim my necrotic yawghole, Lupu.',
         'PGleo86': 'shh bby is ok',
         'tenrose': 'I will obey when you get a life, you filthy fucking weeb',
-        'captainriku': 'I obey, Jund Lord Riku'
+        'captainriku': 'I obey, Jund Lord Riku' ,
+        'Meḥmed-i s̠ānī': 'I obey, miss Zoey'
 }
 
 # ---------------------------
